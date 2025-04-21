@@ -158,6 +158,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
   
-  Developed with ❤️ by [Your Name]
+  Developed with ❤️ by [Alireza SObhanian]
   
 </div>
